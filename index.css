@@ -1,0 +1,22 @@
+body {
+    background-color: azure;
+}
+
+h1{
+    color: orange;
+}
+
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    color: darkslategray;
+}
+
+.bio {
+    color: blueviolet;
+}
+
+.fun{
+    color:deepskyblue;
+}
